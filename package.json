@@ -1,0 +1,14 @@
+{
+  "name": "ai-driven-playwright-api-framework",
+  "version": "1.0.0",
+  "description": "Enterprise API Test Automation Framework built with Playwright and AI QA Workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:report": "npx playwright show-report"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
